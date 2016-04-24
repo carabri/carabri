@@ -34,3 +34,6 @@ captures/
 # Android Studio project files
 .idea
 *.iml
+
+# install script config file
+install_script/config.json
