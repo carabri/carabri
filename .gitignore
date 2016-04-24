@@ -33,3 +33,4 @@ captures/
 
 # Android Studio project files
 .idea
+*.iml
