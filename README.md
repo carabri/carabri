@@ -14,8 +14,11 @@ Prerequisites:
 The install script loads a config.json that has the following fields:
 
 `emulator`: true if you are using an emulated device, false if using usb
+
 `apks`: \[ list of paths to the apks to be installed ]
+
 `uninstall`: \[ list of packages to be removed. convenient if you have to restart the test ]
+
 `tests`: _TODO to be added later_
 
 The easiest way to figure out the package name of a given apk is:
