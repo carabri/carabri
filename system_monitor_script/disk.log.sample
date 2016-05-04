@@ -1,0 +1,35 @@
+Latency: 0ms [512B Data Write]
+Data-Free: 431156K / 545536K total = 79% free
+Cache-Free: 61004K / 62416K total = 97% free
+System-Free: 739460K / 1269632K total = 58% free
+SAMPLE_TIME: 2016-05-04 21:02:50.114372
+
+
+Latency: 1ms [512B Data Write]
+Data-Free: 431156K / 545536K total = 79% free
+Cache-Free: 61004K / 62416K total = 97% free
+System-Free: 739460K / 1269632K total = 58% free
+SAMPLE_TIME: 2016-05-04 21:02:55.437624
+
+
+Latency: 0ms [512B Data Write]
+Data-Free: 431156K / 545536K total = 79% free
+Cache-Free: 61004K / 62416K total = 97% free
+System-Free: 739460K / 1269632K total = 58% free
+SAMPLE_TIME: 2016-05-04 21:03:00.801561
+
+
+Latency: 0ms [512B Data Write]
+Data-Free: 431156K / 545536K total = 79% free
+Cache-Free: 61004K / 62416K total = 97% free
+System-Free: 739460K / 1269632K total = 58% free
+SAMPLE_TIME: 2016-05-04 21:03:06.172205
+
+
+Latency: 0ms [512B Data Write]
+Data-Free: 431156K / 545536K total = 79% free
+Cache-Free: 61004K / 62416K total = 97% free
+System-Free: 739460K / 1269632K total = 58% free
+SAMPLE_TIME: 2016-05-04 21:03:11.508519
+
+

@@ -1,0 +1,65 @@
+Load: 0.02 / 0.08 / 0.13
+CPU usage from 169687ms to 160768ms ago:
+  4.3% 1486/system_server: 1.6% user + 2.6% kernel / faults: 342 minor
+  2.1% 1189/adbd: 0% user + 2.1% kernel
+  1.2% 1201/fingerprintd: 0% user + 1.2% kernel
+  1% 1192/rild: 0% user + 1% kernel
+  0% 1606/com.android.systemui: 0% user + 0% kernel / faults: 15 minor
+  0.1% 1866/com.android.phone: 0.1% user + 0% kernel
+1.5% TOTAL: 0.3% user + 0.9% kernel + 0.2% iowait + 0% softirq
+SAMPLE_TIME: 2016-05-04 21:02:50.172678
+
+
+Load: 0.0 / 0.05 / 0.11
+CPU usage from 166081ms to 5105ms ago:
+  4% 1486/system_server: 0.8% user + 3.1% kernel / faults: 52 minor
+  2.1% 1189/adbd: 0% user + 2.1% kernel / faults: 104 minor
+  1.1% 1201/fingerprintd: 0% user + 1.1% kernel
+  1% 1192/rild: 0% user + 1% kernel
+  0% 1866/com.android.phone: 0% user + 0% kernel / faults: 46 minor
+  0% 1184/surfaceflinger: 0% user + 0% kernel
+  0% 8/rcu_preempt: 0% user + 0% kernel
+  0% 1181/healthd: 0% user + 0% kernel
+  0% 1887/com.android.launcher3: 0% user + 0% kernel / faults: 4 minor
+ +0% 2722/dumpsys: 0% user + 0% kernel
+2.2% TOTAL: 0.2% user + 2% kernel + 0% iowait + 0% softirq
+SAMPLE_TIME: 2016-05-04 21:02:55.480481
+
+
+Load: 0.0 / 0.05 / 0.11
+CPU usage from 10467ms to 5115ms ago:
+  8% 1486/system_server: 5.7% user + 2.2% kernel / faults: 28 minor
+  2.2% 1189/adbd: 0% user + 2.2% kernel / faults: 122 minor
+  1.1% 1201/fingerprintd: 0% user + 1.1% kernel
+  0.9% 1192/rild: 0% user + 0.9% kernel
+  0.1% 1866/com.android.phone: 0% user + 0.1% kernel
+ +0% 2728/dumpsys: 0% user + 0% kernel
+2.9% TOTAL: 1.3% user + 1.4% kernel + 0% iowait
+SAMPLE_TIME: 2016-05-04 21:03:00.845052
+
+
+Load: 0.0 / 0.05 / 0.11
+CPU usage from 10489ms to 5132ms ago:
+  9.7% 1486/system_server: 9.7% user + 0% kernel / faults: 31 minor
+  2.6% 1189/adbd: 0% user + 2.6% kernel / faults: 120 minor
+  1.3% 1201/fingerprintd: 0% user + 1.3% kernel
+  1.1% 1192/rild: 0% user + 1.1% kernel
+  0% 1164/kworker/1:1H: 0% user + 0% kernel
+  0% 1184/surfaceflinger: 0% user + 0% kernel
+  0% 2297/kworker/0:2: 0% user + 0% kernel
+ +0% 2734/dumpsys: 0% user + 0% kernel
+3.3% TOTAL: 2.2% user + 1% kernel
+SAMPLE_TIME: 2016-05-04 21:03:06.212768
+
+
+Load: 0.0 / 0.04 / 0.11
+CPU usage from 10470ms to 5111ms ago:
+  7.8% 1486/system_server: 4.6% user + 3.1% kernel / faults: 64 minor
+  2.9% 1189/adbd: 0% user + 2.9% kernel / faults: 119 minor
+  1.8% 1201/fingerprintd: 0% user + 1.8% kernel
+  1.3% 1192/rild: 0% user + 1.3% kernel
+ +0% 2740/dumpsys: 0% user + 0% kernel
+6.1% TOTAL: 1.1% user + 4.8% kernel + 0% iowait + 0% softirq
+SAMPLE_TIME: 2016-05-04 21:03:11.553391
+
+

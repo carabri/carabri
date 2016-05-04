@@ -1,0 +1,12 @@
+{
+  "emulator": true,
+  "apks": [
+    "/home/nazgul/Downloads/org.geometerplus.zlibrary.ui.android_108020.apk",
+    "/home/nazgul/Downloads/org.geometerplus.zlibrary.ui.android_108021.apk",
+    "/home/nazgul/Downloads/org.geometerplus.zlibrary.ui.android_108022.apk",
+    "/home/nazgul/Downloads/org.geometerplus.zlibrary.ui.android_2010020.apk"
+  ],
+  "uninstall": [
+    "org.geometerplus.zlibrary.ui.android"
+  ]
+}
