@@ -40,4 +40,6 @@ with open('results.txt','w+') as results:
         
         subprocess.call("adb %s shell am start -n com.android.browser/.BrowserActivity" % (device))
         subprocess.call("adb %s shell am start -n com.android.dialer/.DialtactsActivity" % (device))
+        subprocess.call("adb %s shell am start -n com.android.gallery/com.android.camera.GalleryPicker" % (device))
+        
         log_start.terminate()
