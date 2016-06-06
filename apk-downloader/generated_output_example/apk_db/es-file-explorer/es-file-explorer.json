@@ -1,0 +1,658 @@
+[
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_1.apk",
+                "screen_size": "nodpi",
+                "upload_time": "May 5, 2016 at 9:40PM GMT+0200",
+                "version": "4.0.5.1 (514)"
+            }
+        ],
+        "version": "4.0.5.1 (514)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_2.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 28, 2016 at 8:50PM GMT+0200",
+                "version": "4.0.5 (513)"
+            }
+        ],
+        "version": "4.0.5 (513)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_3.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 29, 2016 at 11:49PM GMT+0200",
+                "version": "4.0.4.9 (511)"
+            }
+        ],
+        "version": "4.0.4.9 (511)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_4.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 25, 2016 at 6:27PM GMT+0100",
+                "version": "4.0.4.8 (510)"
+            }
+        ],
+        "version": "4.0.4.8 (510)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "es-file-explorer_5.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 15, 2016 at 3:59PM GMT+0100",
+                "version": "4.0.4.7 (509)"
+            }
+        ],
+        "version": "4.0.4.7 (509)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "es-file-explorer_6.apk",
+                "screen_size": "nodpi",
+                "upload_time": "February 26, 2016 at 9:10PM GMT+0100",
+                "version": "4.0.4.5 (507)"
+            }
+        ],
+        "version": "4.0.4.5 (507)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "es-file-explorer_7.apk",
+                "screen_size": "nodpi",
+                "upload_time": "February 5, 2016 at 7:12PM GMT+0100",
+                "version": "4.0.4.4 (506)"
+            }
+        ],
+        "version": "4.0.4.4 (506)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "es-file-explorer_8.apk",
+                "screen_size": "nodpi",
+                "upload_time": "February 2, 2016 at 4:20PM GMT+0100",
+                "version": "4.0.4.3 (503)"
+            }
+        ],
+        "version": "4.0.4.3 (503)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_9.apk",
+                "screen_size": "nodpi",
+                "upload_time": "January 5, 2016 at 5:46PM GMT+0100",
+                "version": "4.0.4.1 (253)"
+            }
+        ],
+        "version": "4.0.4.1 (253)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_10.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 30, 2015 at 6:18AM GMT+0100",
+                "version": "4.0.4 (252)"
+            }
+        ],
+        "version": "4.0.4 (252)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.2 (Froyo, API 8)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_11.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 24, 2015 at 11:50PM GMT+0100",
+                "version": "4.0.3.4 (250)"
+            }
+        ],
+        "version": "4.0.3.4 (250)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.2 (Froyo, API 8)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_12.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 17, 2015 at 7:58PM GMT+0100",
+                "version": "4.0.3.3 (249)"
+            }
+        ],
+        "version": "4.0.3.3 (249)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.2 (Froyo, API 8)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_13.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 11, 2015 at 11:17PM GMT+0100",
+                "version": "4.0.3.2 (248)"
+            }
+        ],
+        "version": "4.0.3.2 (248)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.2 (Froyo, API 8)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_14.apk",
+                "screen_size": "nodpi",
+                "upload_time": "November 27, 2015 at 6:06PM GMT+0100",
+                "version": "4.0.3.1 (247)"
+            }
+        ],
+        "version": "4.0.3.1 (247)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.2 (Froyo, API 8)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_15.apk",
+                "screen_size": "nodpi",
+                "upload_time": "November 21, 2015 at 7:39PM GMT+0100",
+                "version": "4.0.3 (246)"
+            }
+        ],
+        "version": "4.0.3 (246)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.2 (Froyo, API 8)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_16.apk",
+                "screen_size": "nodpi",
+                "upload_time": "November 12, 2015 at 10:27PM GMT+0100",
+                "version": "4.0.2.9 (243)"
+            }
+        ],
+        "version": "4.0.2.9 (243)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.2 (Froyo, API 8)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_17.apk",
+                "screen_size": "nodpi",
+                "upload_time": "November 7, 2015 at 1:44AM GMT+0100",
+                "version": "4.0.2.8 (242)"
+            }
+        ],
+        "version": "4.0.2.8 (242)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.2 (Froyo, API 8)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_18.apk",
+                "screen_size": "nodpi",
+                "upload_time": "November 5, 2015 at 7:08PM GMT+0100",
+                "version": "4.0.2.7 (241)"
+            }
+        ],
+        "version": "4.0.2.7 (241)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.2 (Froyo, API 8)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_19.apk",
+                "screen_size": "nodpi",
+                "upload_time": "November 4, 2015 at 3:24PM GMT+0100",
+                "version": "4.0.2.6 (240)"
+            }
+        ],
+        "version": "4.0.2.6 (240)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.2 (Froyo, API 8)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_20.apk",
+                "screen_size": "nodpi",
+                "upload_time": "November 3, 2015 at 5:47PM GMT+0100",
+                "version": "4.0.2.5 (239)"
+            }
+        ],
+        "version": "4.0.2.5 (239)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.2 (Froyo, API 8)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_21.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 31, 2015 at 9:18AM GMT+0100",
+                "version": "4.0.2.4 (238)"
+            }
+        ],
+        "version": "4.0.2.4 (238)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.2 (Froyo, API 8)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_22.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 24, 2015 at 4:38PM GMT+0200",
+                "version": "4.0.2.3 (236)"
+            }
+        ],
+        "version": "4.0.2.3 (236)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.2 (Froyo, API 8)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_23.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 14, 2015 at 3:45PM GMT+0200",
+                "version": "4.0.2.2 (234)"
+            }
+        ],
+        "version": "4.0.2.2 (234)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.2 (Froyo, API 8)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_24.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 7, 2015 at 5:08PM GMT+0200",
+                "version": "4.0.2.1 (233)"
+            }
+        ],
+        "version": "4.0.2.1 (233)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.2 (Froyo, API 8)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_25.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 1, 2015 at 5:38PM GMT+0200",
+                "version": "4.0.2 (232)"
+            }
+        ],
+        "version": "4.0.2 (232)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.0 (Eclair, API 5)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_26.apk",
+                "screen_size": "nodpi",
+                "upload_time": "August 14, 2015 at 10:33AM GMT+0200",
+                "version": "4.0.1 (231)"
+            }
+        ],
+        "version": "4.0.1 (231)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.0 (Eclair, API 5)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_27.apk",
+                "screen_size": "nodpi",
+                "upload_time": "August 2, 2015 at 5:00PM GMT+0200",
+                "version": "4.0.0 (230)"
+            }
+        ],
+        "version": "4.0.0 (230)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.0 (Eclair, API 5)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_28.apk",
+                "screen_size": "nodpi",
+                "upload_time": "July 11, 2015 at 5:35PM GMT+0200",
+                "version": "3.2.5.5 (229)"
+            }
+        ],
+        "version": "3.2.5.5 (229)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.0 (Eclair, API 5)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_29.apk",
+                "screen_size": "nodpi",
+                "upload_time": "July 8, 2015 at 4:47PM GMT+0200",
+                "version": "3.2.5.4 (228)"
+            }
+        ],
+        "version": "3.2.5.4 (228)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.0 (Eclair, API 5)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_30.apk",
+                "screen_size": "nodpi",
+                "upload_time": "May 22, 2015 at 5:25PM GMT+0200",
+                "version": "3.2.5.3 (227)"
+            }
+        ],
+        "version": "3.2.5.3 (227)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.0 (Eclair, API 5)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_31.apk",
+                "screen_size": "nodpi",
+                "upload_time": "May 20, 2015 at 11:15AM GMT+0200",
+                "version": "3.2.5.2 (226)"
+            }
+        ],
+        "version": "3.2.5.2 (226)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.0 (Eclair, API 5)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_32.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 27, 2015 at 7:38PM GMT+0200",
+                "version": "3.2.5.1 (225)"
+            }
+        ],
+        "version": "3.2.5.1 (225)"
+    },
+    {
+        "app_id": "es-file-explorer",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 2.0 (Eclair, API 5)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "es-file-explorer",
+                "architectures": [
+                    "arm",
+                    "x86"
+                ],
+                "file_name": "es-file-explorer_33.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 17, 2015 at 10:35AM GMT+0200",
+                "version": "3.2.5 (224)"
+            }
+        ],
+        "version": "3.2.5 (224)"
+    }
+]

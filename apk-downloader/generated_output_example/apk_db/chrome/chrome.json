@@ -1,0 +1,1338 @@
+[
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_1.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 25, 2016 at 10:23PM GMT+0200",
+                "version": "50.0.2661.89 (266108900)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_2.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 25, 2016 at 10:48PM GMT+0200",
+                "version": "50.0.2661.89 (266108901)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_3.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 26, 2016 at 8:13PM GMT+0200",
+                "version": "50.0.2661.89 (266108910)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_4.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 26, 2016 at 1:58AM GMT+0200",
+                "version": "50.0.2661.89 (266108911)"
+            }
+        ],
+        "version": "50.0.2661.89 (266108900)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android N Preview (API N)",
+                "android_version_target": "Android N Preview (API N)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_5.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 10, 2016 at 12:52AM GMT+0100",
+                "version": "50.0.2657.12 (265701201)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android N Preview (API N)",
+                "android_version_target": "Android N Preview (API N)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm",
+                    "arm64"
+                ],
+                "file_name": "chrome_6.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 25, 2016 at 10:01PM GMT+0100",
+                "version": "50.0.2657.12 (265701251)"
+            }
+        ],
+        "version": "50.0.2657.12 (265701201)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_7.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 24, 2016 at 4:27AM GMT+0100",
+                "version": "49.0.2623.105 (262310500)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_8.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 23, 2016 at 11:48PM GMT+0100",
+                "version": "49.0.2623.105 (262310501)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_9.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 24, 2016 at 4:27AM GMT+0100",
+                "version": "49.0.2623.105 (262310510)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_10.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 25, 2016 at 7:34AM GMT+0100",
+                "version": "49.0.2623.105 (262310511)"
+            }
+        ],
+        "version": "49.0.2623.105 (262310500)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_11.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 10, 2016 at 9:46AM GMT+0100",
+                "version": "49.0.2623.91 (262309100)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_12.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 10, 2016 at 2:41AM GMT+0100",
+                "version": "49.0.2623.91 (262309101)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_13.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 10, 2016 at 2:31AM GMT+0100",
+                "version": "49.0.2623.91 (262309110)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_14.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 24, 2016 at 1:14AM GMT+0100",
+                "version": "49.0.2623.91 (262309111)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_15.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 10, 2016 at 2:59AM GMT+0100",
+                "version": "49.0.2623.91 (262309111)"
+            }
+        ],
+        "version": "49.0.2623.91 (262309100)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_16.apk",
+                "screen_size": "nodpi",
+                "upload_time": "January 27, 2016 at 10:40PM GMT+0100",
+                "version": "48.0.2564.95 (256409500)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_17.apk",
+                "screen_size": "nodpi",
+                "upload_time": "January 27, 2016 at 10:15PM GMT+0100",
+                "version": "48.0.2564.95 (256409501)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_18.apk",
+                "screen_size": "nodpi",
+                "upload_time": "February 2, 2016 at 4:24AM GMT+0100",
+                "version": "48.0.2564.95 (256409510)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_19.apk",
+                "screen_size": "nodpi",
+                "upload_time": "February 2, 2016 at 12:11PM GMT+0100",
+                "version": "48.0.2564.95 (256409511)"
+            }
+        ],
+        "version": "48.0.2564.95 (256409500)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_20.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 9, 2015 at 2:09AM GMT+0100",
+                "version": "47.0.2526.83 (252608300)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_21.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 9, 2015 at 2:09AM GMT+0100",
+                "version": "47.0.2526.83 (252608301)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_22.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 9, 2015 at 7:44PM GMT+0100",
+                "version": "47.0.2526.83 (252608310)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_23.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 8, 2015 at 9:29PM GMT+0100",
+                "version": "47.0.2526.83 (252608311)"
+            }
+        ],
+        "version": "47.0.2526.83 (252608300)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_24.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 3, 2015 at 4:10AM GMT+0100",
+                "version": "47.0.2526.76 (252607600)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_25.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 3, 2015 at 4:10AM GMT+0100",
+                "version": "47.0.2526.76 (252607601)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_26.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 4, 2015 at 12:04AM GMT+0100",
+                "version": "47.0.2526.76 (252607610)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_27.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 4, 2015 at 2:24AM GMT+0100",
+                "version": "47.0.2526.76 (252607611)"
+            }
+        ],
+        "version": "47.0.2526.76 (252607600)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_28.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 15, 2015 at 5:56AM GMT+0200",
+                "version": "46.0.2490.76 (249007600)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_29.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 15, 2015 at 1:19AM GMT+0200",
+                "version": "46.0.2490.76 (249007601)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_30.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 18, 2015 at 1:07AM GMT+0200",
+                "version": "46.0.2490.76 (249007610)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_31.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 16, 2015 at 8:50PM GMT+0200",
+                "version": "46.0.2490.76 (249007611)"
+            }
+        ],
+        "version": "46.0.2490.76 (249007600)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_32.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 16, 2015 at 8:11PM GMT+0200",
+                "version": "45.0.2454.94 (245409400)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_33.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 16, 2015 at 6:53PM GMT+0200",
+                "version": "45.0.2454.94 (245409401)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_34.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 17, 2015 at 9:28PM GMT+0200",
+                "version": "45.0.2454.94 (245409410)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_35.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 20, 2015 at 11:51AM GMT+0200",
+                "version": "45.0.2454.94 (245409411)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm64"
+                ],
+                "file_name": "chrome_36.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 17, 2015 at 8:13AM GMT+0200",
+                "version": "45.0.2454.94 (245409451)"
+            }
+        ],
+        "version": "45.0.2454.94 (245409400)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_37.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 1, 2015 at 10:02PM GMT+0200",
+                "version": "45.0.2454.84 (245408400)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_38.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 1, 2015 at 11:22PM GMT+0200",
+                "version": "45.0.2454.84 (245408401)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_39.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 7, 2015 at 9:38AM GMT+0200",
+                "version": "45.0.2454.84 (245408410)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_40.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 4, 2015 at 4:38PM GMT+0200",
+                "version": "45.0.2454.84 (245408411)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm64"
+                ],
+                "file_name": "chrome_41.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 1, 2015 at 5:00PM GMT+0200",
+                "version": "45.0.2454.84 (245408451)"
+            }
+        ],
+        "version": "45.0.2454.84 (245408400)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_42.apk",
+                "screen_size": "nodpi",
+                "upload_time": "August 18, 2015 at 7:03PM GMT+0200",
+                "version": "44.0.2403.633 (240363301)"
+            }
+        ],
+        "version": "44.0.2403.633 (240363301)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_43.apk",
+                "screen_size": "nodpi",
+                "upload_time": "August 1, 2015 at 10:08AM GMT+0200",
+                "version": "44.0.2403.133 (240313300)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_44.apk",
+                "screen_size": "nodpi",
+                "upload_time": "August 1, 2015 at 10:03AM GMT+0200",
+                "version": "44.0.2403.133 (240313301)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_45.apk",
+                "screen_size": "nodpi",
+                "upload_time": "August 1, 2015 at 10:09AM GMT+0200",
+                "version": "44.0.2403.133 (240313311)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm64"
+                ],
+                "file_name": "chrome_46.apk",
+                "screen_size": "nodpi",
+                "upload_time": "August 1, 2015 at 10:10AM GMT+0200",
+                "version": "44.0.2403.133 (240313351)"
+            }
+        ],
+        "version": "44.0.2403.133 (240313300)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_47.apk",
+                "screen_size": "nodpi",
+                "upload_time": "July 30, 2015 at 1:08AM GMT+0200",
+                "version": "44.0.2403.128 (240312800)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_48.apk",
+                "screen_size": "nodpi",
+                "upload_time": "July 30, 2015 at 7:37AM GMT+0200",
+                "version": "44.0.2403.128 (240312801)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_49.apk",
+                "screen_size": "nodpi",
+                "upload_time": "July 30, 2015 at 4:38AM GMT+0200",
+                "version": "44.0.2403.128 (240312811)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm64"
+                ],
+                "file_name": "chrome_50.apk",
+                "screen_size": "nodpi",
+                "upload_time": "July 31, 2015 at 7:38PM GMT+0200",
+                "version": "44.0.2403.128 (240312851)"
+            }
+        ],
+        "version": "44.0.2403.128 (240312800)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 5.0 (Lollipop, API 21)",
+                "android_version_target": "Android MNC (M dev preview, API MNC)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_51.apk",
+                "screen_size": "nodpi",
+                "upload_time": "July 21, 2015 at 4:10PM GMT+0200",
+                "version": "44.0.2403.54 (240305401)"
+            }
+        ],
+        "version": "44.0.2403.54 (240305401)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_52.apk",
+                "screen_size": "nodpi",
+                "upload_time": "June 10, 2015 at 1:33AM GMT+0200",
+                "version": "43.0.2357.93 (12357093)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_53.apk",
+                "screen_size": "nodpi",
+                "upload_time": "June 9, 2015 at 6:05AM GMT+0200",
+                "version": "43.0.2357.93 (2357093)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm64"
+                ],
+                "file_name": "chrome_54.apk",
+                "screen_size": "nodpi",
+                "upload_time": "June 9, 2015 at 4:51PM GMT+0200",
+                "version": "43.0.2357.93 (52357093)"
+            }
+        ],
+        "version": "43.0.2357.93 (12357093)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_55.apk",
+                "screen_size": "nodpi",
+                "upload_time": "June 4, 2015 at 4:22AM GMT+0200",
+                "version": "43.0.2357.92 (12357092)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_56.apk",
+                "screen_size": "nodpi",
+                "upload_time": "June 4, 2015 at 3:00AM GMT+0200",
+                "version": "43.0.2357.92 (2357092)"
+            }
+        ],
+        "version": "43.0.2357.92 (12357092)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_57.apk",
+                "screen_size": "nodpi",
+                "upload_time": "May 28, 2015 at 1:16AM GMT+0200",
+                "version": "43.0.2357.78 (2357078)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm64"
+                ],
+                "file_name": "chrome_58.apk",
+                "screen_size": "nodpi",
+                "upload_time": "May 29, 2015 at 7:55AM GMT+0200",
+                "version": "43.0.2357.78 (52357078)"
+            }
+        ],
+        "version": "43.0.2357.78 (2357078)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_59.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 29, 2015 at 5:03AM GMT+0200",
+                "version": "42.0.2311.111 (12311111)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_60.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 29, 2015 at 12:50AM GMT+0200",
+                "version": "42.0.2311.111 (2311111)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm64"
+                ],
+                "file_name": "chrome_61.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 30, 2015 at 1:11AM GMT+0200",
+                "version": "42.0.2311.111 (52311111)"
+            }
+        ],
+        "version": "42.0.2311.111 (12311111)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_62.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 21, 2015 at 12:15AM GMT+0200",
+                "version": "42.0.2311.109 (2311109)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm64"
+                ],
+                "file_name": "chrome_63.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 22, 2015 at 1:19AM GMT+0200",
+                "version": "42.0.2311.109 (52311109)"
+            }
+        ],
+        "version": "42.0.2311.109 (2311109)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_64.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 17, 2015 at 9:51AM GMT+0200",
+                "version": "42.0.2311.108 (2311108)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm64"
+                ],
+                "file_name": "chrome_65.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 17, 2015 at 11:16PM GMT+0200",
+                "version": "42.0.2311.108 (52311108)"
+            }
+        ],
+        "version": "42.0.2311.108 (2311108)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_66.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 15, 2015 at 10:29PM GMT+0200",
+                "version": "42.0.2311.107 (2311107)"
+            }
+        ],
+        "version": "42.0.2311.107 (2311107)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_67.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 22, 2015 at 7:57PM GMT+0100",
+                "version": "41.0.2272.96 (12272096)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_68.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 21, 2015 at 5:46PM GMT+0100",
+                "version": "41.0.2272.96 (2272096)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm64"
+                ],
+                "file_name": "chrome_69.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 21, 2015 at 5:47PM GMT+0100",
+                "version": "41.0.2272.96 (52272096)"
+            }
+        ],
+        "version": "41.0.2272.96 (12272096)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_70.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 19, 2015 at 5:50PM GMT+0100",
+                "version": "41.0.2272.94 (12272094)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_71.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 17, 2015 at 2:54AM GMT+0100",
+                "version": "41.0.2272.94 (2272094)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm64"
+                ],
+                "file_name": "chrome_72.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 17, 2015 at 4:06AM GMT+0100",
+                "version": "41.0.2272.94 (52272094)"
+            }
+        ],
+        "version": "41.0.2272.94 (12272094)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_73.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 11, 2015 at 4:33PM GMT+0100",
+                "version": "41.0.2272.92 (2272092)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm64"
+                ],
+                "file_name": "chrome_74.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 11, 2015 at 6:40PM GMT+0100",
+                "version": "41.0.2272.92 (52272092)"
+            }
+        ],
+        "version": "41.0.2272.92 (2272092)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "x86"
+                ],
+                "file_name": "chrome_75.apk",
+                "screen_size": "nodpi",
+                "upload_time": "February 4, 2015 at 10:01PM GMT+0100",
+                "version": "40.0.2214.109 (12214109)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_76.apk",
+                "screen_size": "nodpi",
+                "upload_time": "February 4, 2015 at 9:58PM GMT+0100",
+                "version": "40.0.2214.109 (2214109)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm64"
+                ],
+                "file_name": "chrome_77.apk",
+                "screen_size": "nodpi",
+                "upload_time": "February 6, 2015 at 5:00AM GMT+0100",
+                "version": "40.0.2214.109 (52214109)"
+            }
+        ],
+        "version": "40.0.2214.109 (12214109)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_78.apk",
+                "screen_size": "nodpi",
+                "upload_time": "January 21, 2015 at 10:04PM GMT+0100",
+                "version": "40.0.2214.89 (2214089)"
+            },
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm64"
+                ],
+                "file_name": "chrome_79.apk",
+                "screen_size": "nodpi",
+                "upload_time": "January 23, 2015 at 6:59AM GMT+0100",
+                "version": "40.0.2214.89 (52214089)"
+            }
+        ],
+        "version": "40.0.2214.89 (2214089)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_80.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 3, 2014 at 11:55PM GMT+0100",
+                "version": "39.0.2171.93 (2171093)"
+            }
+        ],
+        "version": "39.0.2171.93 (2171093)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_81.apk",
+                "screen_size": "nodpi",
+                "upload_time": "November 12, 2014 at 9:29PM GMT+0100",
+                "version": "39.0.2171.59 (2171059)"
+            }
+        ],
+        "version": "39.0.2171.59 (2171059)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 4.4W (Kitkat Watch, API 20)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_82.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 28, 2014 at 2:57AM GMT+0100",
+                "version": "38.0.2125.114 (2125114)"
+            }
+        ],
+        "version": "38.0.2125.114 (2125114)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 4.3 (Jelly Bean MR2, API 18)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_83.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 22, 2014 at 3:17PM GMT+0200",
+                "version": "36.0.1985.135 (1985135)"
+            }
+        ],
+        "version": "36.0.1985.135 (1985135)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 4.4W (Kitkat Watch, API 20)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_84.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 8, 2014 at 8:20PM GMT+0200",
+                "version": "38.0.2125.102 (2125102)"
+            }
+        ],
+        "version": "38.0.2125.102 (2125102)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 4.2 (Jelly Bean MR1, API 17)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_85.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 2, 2014 at 11:59AM GMT+0200",
+                "version": "30.0.1599.82 (1599082)"
+            }
+        ],
+        "version": "30.0.1599.82 (1599082)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 4.2 (Jelly Bean MR1, API 17)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_86.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 2, 2014 at 11:59AM GMT+0200",
+                "version": "29.0.1547.72 (1547072)"
+            }
+        ],
+        "version": "29.0.1547.72 (1547072)"
+    },
+    {
+        "app_id": "chrome",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 4.4W (Kitkat Watch, API 20)",
+                "app_id": "chrome",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "chrome_87.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 2, 2014 at 11:59AM GMT+0200",
+                "version": "37.0.2062.117 (2062117)"
+            }
+        ],
+        "version": "37.0.2062.117 (2062117)"
+    }
+]

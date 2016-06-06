@@ -1,0 +1,170 @@
+[
+    {
+        "app_id": "piktures",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "piktures",
+                "architectures": [
+                    "arm",
+                    "mips",
+                    "x86"
+                ],
+                "file_name": "piktures_1.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 10, 2016 at 9:14PM GMT+0200",
+                "version": "2.1 (312)"
+            }
+        ],
+        "version": "2.1 (312)"
+    },
+    {
+        "app_id": "piktures",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "piktures",
+                "architectures": [
+                    "arm",
+                    "mips",
+                    "x86"
+                ],
+                "file_name": "piktures_2.apk",
+                "screen_size": "nodpi",
+                "upload_time": "January 25, 2016 at 5:11AM GMT+0100",
+                "version": "2.0 (287)"
+            }
+        ],
+        "version": "2.0 (287)"
+    },
+    {
+        "app_id": "piktures",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "piktures",
+                "architectures": [
+                    "arm",
+                    "mips",
+                    "x86"
+                ],
+                "file_name": "piktures_3.apk",
+                "screen_size": "nodpi",
+                "upload_time": "November 4, 2015 at 4:48PM GMT+0100",
+                "version": "1.5.2 (250)"
+            }
+        ],
+        "version": "1.5.2 (250)"
+    },
+    {
+        "app_id": "piktures",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "piktures",
+                "architectures": [
+                    "arm",
+                    "mips",
+                    "x86"
+                ],
+                "file_name": "piktures_4.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 8, 2015 at 4:25PM GMT+0200",
+                "version": "1.5.0 (232)"
+            }
+        ],
+        "version": "1.5.0 (232)"
+    },
+    {
+        "app_id": "piktures",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "piktures",
+                "architectures": [
+                    "arm",
+                    "mips",
+                    "x86"
+                ],
+                "file_name": "piktures_5.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 28, 2015 at 3:31PM GMT+0200",
+                "version": "1.4.6 (222)"
+            }
+        ],
+        "version": "1.4.6 (222)"
+    },
+    {
+        "app_id": "piktures",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "piktures",
+                "architectures": [
+                    "arm",
+                    "mips",
+                    "x86"
+                ],
+                "file_name": "piktures_6.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 21, 2015 at 7:50PM GMT+0200",
+                "version": "1.4.5 (216)"
+            }
+        ],
+        "version": "1.4.5 (216)"
+    },
+    {
+        "app_id": "piktures",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "piktures",
+                "architectures": [
+                    "arm",
+                    "mips",
+                    "x86"
+                ],
+                "file_name": "piktures_7.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 7, 2015 at 4:51AM GMT+0200",
+                "version": "1.4.4 (204)"
+            }
+        ],
+        "version": "1.4.4 (204)"
+    },
+    {
+        "app_id": "piktures",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.1 (Jelly Bean, API 16)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "piktures",
+                "architectures": [
+                    "arm",
+                    "mips",
+                    "x86"
+                ],
+                "file_name": "piktures_8.apk",
+                "screen_size": "nodpi",
+                "upload_time": "August 25, 2015 at 8:47PM GMT+0200",
+                "version": "1.4.2 (198)"
+            }
+        ],
+        "version": "1.4.2 (198)"
+    }
+]

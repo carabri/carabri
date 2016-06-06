@@ -1,0 +1,1085 @@
+[
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_1.apk",
+                "screen_size": "nodpi",
+                "upload_time": "May 4, 2016 at 2:48AM GMT+0200",
+                "version": "6.32.0.570 (102761018)"
+            }
+        ],
+        "version": "6.32.0.570 (102761018)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_2.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 26, 2016 at 1:32AM GMT+0200",
+                "version": "6.31.0.709 (102695621)"
+            }
+        ],
+        "version": "6.31.0.709 (102695621)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_3.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 19, 2016 at 9:05PM GMT+0200",
+                "version": "6.30.0.612 (102629988)"
+            }
+        ],
+        "version": "6.30.0.612 (102629988)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_4.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 13, 2016 at 7:01AM GMT+0200",
+                "version": "6.29.0.758 (102564598)"
+            }
+        ],
+        "version": "6.29.0.758 (102564598)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_5.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 5, 2016 at 8:17PM GMT+0200",
+                "version": "6.28.0.510 (102498814)"
+            }
+        ],
+        "version": "6.28.0.510 (102498814)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_6.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 30, 2016 at 4:38AM GMT+0200",
+                "version": "6.27.0.719 (102433487)"
+            }
+        ],
+        "version": "6.27.0.719 (102433487)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_7.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 29, 2016 at 11:32PM GMT+0200",
+                "version": "6.27.0.718 (102433486)"
+            }
+        ],
+        "version": "6.27.0.718 (102433486)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_8.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 18, 2016 at 11:24PM GMT+0100",
+                "version": "6.26.0.1313 (102368545)"
+            }
+        ],
+        "version": "6.26.0.1313 (102368545)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_9.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 15, 2016 at 9:37PM GMT+0100",
+                "version": "6.25.0.1107 (102302803)"
+            }
+        ],
+        "version": "6.25.0.1107 (102302803)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_10.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 8, 2016 at 8:39PM GMT+0100",
+                "version": "6.24.0.1006 (102237166)"
+            }
+        ],
+        "version": "6.24.0.1006 (102237166)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_11.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 3, 2016 at 7:52PM GMT+0100",
+                "version": "6.23.0.704 (102171328)"
+            }
+        ],
+        "version": "6.23.0.704 (102171328)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_12.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 2, 2016 at 1:33AM GMT+0100",
+                "version": "6.23.0.702 (102171326)"
+            }
+        ],
+        "version": "6.23.0.702 (102171326)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_13.apk",
+                "screen_size": "nodpi",
+                "upload_time": "February 23, 2016 at 8:51AM GMT+0100",
+                "version": "6.22.0.680 (102105768)"
+            }
+        ],
+        "version": "6.22.0.680 (102105768)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_14.apk",
+                "screen_size": "nodpi",
+                "upload_time": "February 17, 2016 at 1:45AM GMT+0100",
+                "version": "6.21.0.560 (102040112)"
+            }
+        ],
+        "version": "6.21.0.560 (102040112)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_15.apk",
+                "screen_size": "nodpi",
+                "upload_time": "February 10, 2016 at 3:46AM GMT+0100",
+                "version": "6.20.0.618 (101974634)"
+            }
+        ],
+        "version": "6.20.0.618 (101974634)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_16.apk",
+                "screen_size": "nodpi",
+                "upload_time": "February 2, 2016 at 4:21PM GMT+0100",
+                "version": "6.19.0.460 (101908940)"
+            }
+        ],
+        "version": "6.19.0.460 (101908940)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_17.apk",
+                "screen_size": "nodpi",
+                "upload_time": "January 28, 2016 at 11:14AM GMT+0100",
+                "version": "6.18.0.911 (101843855)"
+            }
+        ],
+        "version": "6.18.0.911 (101843855)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_18.apk",
+                "screen_size": "nodpi",
+                "upload_time": "January 20, 2016 at 11:53AM GMT+0100",
+                "version": "6.17.0.420 (101777828)"
+            }
+        ],
+        "version": "6.17.0.420 (101777828)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_19.apk",
+                "screen_size": "nodpi",
+                "upload_time": "January 13, 2016 at 11:19PM GMT+0100",
+                "version": "6.16.0.1919 (101713791)"
+            }
+        ],
+        "version": "6.16.0.1919 (101713791)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_20.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 21, 2015 at 4:26AM GMT+0100",
+                "version": "6.15.0.1162 (101647498)"
+            }
+        ],
+        "version": "6.15.0.1162 (101647498)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_21.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 17, 2015 at 8:02PM GMT+0100",
+                "version": "6.15.0.1153 (101647489)"
+            }
+        ],
+        "version": "6.15.0.1153 (101647489)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_22.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 8, 2015 at 7:16AM GMT+0100",
+                "version": "6.14.0.665 (101581465)"
+            }
+        ],
+        "version": "6.14.0.665 (101581465)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_23.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 1, 2015 at 6:27PM GMT+0100",
+                "version": "6.13.0.608 (101515872)"
+            }
+        ],
+        "version": "6.13.0.608 (101515872)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_24.apk",
+                "screen_size": "nodpi",
+                "upload_time": "November 26, 2015 at 1:17AM GMT+0100",
+                "version": "6.12.0.585 (101450313)"
+            }
+        ],
+        "version": "6.12.0.585 (101450313)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_25.apk",
+                "screen_size": "nodpi",
+                "upload_time": "November 24, 2015 at 5:15PM GMT+0100",
+                "version": "6.12.0.582 (101450310)"
+            }
+        ],
+        "version": "6.12.0.582 (101450310)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_26.apk",
+                "screen_size": "nodpi",
+                "upload_time": "November 19, 2015 at 1:48AM GMT+0100",
+                "version": "6.11.0.518 (101384710)"
+            }
+        ],
+        "version": "6.11.0.518 (101384710)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_27.apk",
+                "screen_size": "nodpi",
+                "upload_time": "November 10, 2015 at 8:13AM GMT+0100",
+                "version": "6.10.0.620 (101319276)"
+            }
+        ],
+        "version": "6.10.0.620 (101319276)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_28.apk",
+                "screen_size": "nodpi",
+                "upload_time": "November 6, 2015 at 4:42PM GMT+0100",
+                "version": "6.10.0.606 (101319262)"
+            }
+        ],
+        "version": "6.10.0.606 (101319262)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_29.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 28, 2015 at 4:01PM GMT+0100",
+                "version": "6.8.0.590 (101188174)"
+            }
+        ],
+        "version": "6.8.0.590 (101188174)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_30.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 21, 2015 at 5:10AM GMT+0200",
+                "version": "6.7.0.460 (101122508)"
+            }
+        ],
+        "version": "6.7.0.460 (101122508)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_31.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 15, 2015 at 6:36PM GMT+0200",
+                "version": "6.6.0.334 (101056846)"
+            }
+        ],
+        "version": "6.6.0.334 (101056846)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_32.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 13, 2015 at 6:55AM GMT+0200",
+                "version": "6.6.0.333 (101056845)"
+            }
+        ],
+        "version": "6.6.0.333 (101056845)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_33.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 6, 2015 at 7:31AM GMT+0200",
+                "version": "6.5.0.351 (100991327)"
+            }
+        ],
+        "version": "6.5.0.351 (100991327)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_34.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 29, 2015 at 12:57AM GMT+0200",
+                "version": "6.4.0.309 (100925749)"
+            }
+        ],
+        "version": "6.4.0.309 (100925749)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_35.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 22, 2015 at 10:03PM GMT+0200",
+                "version": "6.3.0.503 (100860407)"
+            }
+        ],
+        "version": "6.3.0.503 (100860407)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_36.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 15, 2015 at 4:34PM GMT+0200",
+                "version": "6.2.0.17000 (100811368)"
+            }
+        ],
+        "version": "6.2.0.17000 (100811368)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_37.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 9, 2015 at 4:10AM GMT+0200",
+                "version": "6.1.0.16416 (100745248)"
+            }
+        ],
+        "version": "6.1.0.16416 (100745248)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_38.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 3, 2015 at 9:39PM GMT+0200",
+                "version": "6.0.0.16024 (100679320)"
+            }
+        ],
+        "version": "6.0.0.16024 (100679320)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_39.apk",
+                "screen_size": "nodpi",
+                "upload_time": "August 28, 2015 at 5:29PM GMT+0200",
+                "version": "5.11.0.15471 (84622447)"
+            }
+        ],
+        "version": "5.11.0.15471 (84622447)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_40.apk",
+                "screen_size": "nodpi",
+                "upload_time": "August 27, 2015 at 7:33PM GMT+0200",
+                "version": "5.11.0.15289 (84622265)"
+            }
+        ],
+        "version": "5.11.0.15289 (84622265)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_41.apk",
+                "screen_size": "nodpi",
+                "upload_time": "August 21, 2015 at 11:21PM GMT+0200",
+                "version": "5.10.0.15007 (84556447)"
+            }
+        ],
+        "version": "5.10.0.15007 (84556447)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.1 (Lollipop MR1, API 22)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_42.apk",
+                "screen_size": "nodpi",
+                "upload_time": "August 21, 2015 at 2:21AM GMT+0200",
+                "version": "5.10.0.14746 (84556186)"
+            }
+        ],
+        "version": "5.10.0.14746 (84556186)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_43.apk",
+                "screen_size": "nodpi",
+                "upload_time": "August 12, 2015 at 8:16PM GMT+0200",
+                "version": "5.9.0.14344 (84490248)"
+            }
+        ],
+        "version": "5.9.0.14344 (84490248)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_44.apk",
+                "screen_size": "nodpi",
+                "upload_time": "August 11, 2015 at 1:05AM GMT+0200",
+                "version": "5.9.0.14047 (84489951)"
+            }
+        ],
+        "version": "5.9.0.14047 (84489951)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_45.apk",
+                "screen_size": "nodpi",
+                "upload_time": "August 4, 2015 at 2:18AM GMT+0200",
+                "version": "5.8.0.13549 (84423917)"
+            }
+        ],
+        "version": "5.8.0.13549 (84423917)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_46.apk",
+                "screen_size": "nodpi",
+                "upload_time": "July 28, 2015 at 10:00PM GMT+0200",
+                "version": "5.7.0.13054 (84357886)"
+            }
+        ],
+        "version": "5.7.0.13054 (84357886)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_47.apk",
+                "screen_size": "nodpi",
+                "upload_time": "July 22, 2015 at 5:38PM GMT+0200",
+                "version": "5.6.0.12393 (84291689)"
+            }
+        ],
+        "version": "5.6.0.12393 (84291689)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_48.apk",
+                "screen_size": "nodpi",
+                "upload_time": "July 14, 2015 at 10:07PM GMT+0200",
+                "version": "5.5.0.11658 (84225418)"
+            }
+        ],
+        "version": "5.5.0.11658 (84225418)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_49.apk",
+                "screen_size": "nodpi",
+                "upload_time": "June 26, 2015 at 4:47PM GMT+0200",
+                "version": "5.4.0.5871 (84154095)"
+            }
+        ],
+        "version": "5.4.0.5871 (84154095)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_50.apk",
+                "screen_size": "nodpi",
+                "upload_time": "June 19, 2015 at 2:06AM GMT+0200",
+                "version": "5.4.0.5191 (84153415)"
+            }
+        ],
+        "version": "5.4.0.5191 (84153415)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_51.apk",
+                "screen_size": "nodpi",
+                "upload_time": "June 3, 2015 at 4:12AM GMT+0200",
+                "version": "5.4.0.4165 (84152389)"
+            }
+        ],
+        "version": "5.4.0.4165 (84152389)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0.3 (Ice Cream Sandwich MR1, API 15)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_52.apk",
+                "screen_size": "nodpi",
+                "upload_time": "May 21, 2015 at 10:55PM GMT+0200",
+                "version": "5.4.0.3239 (84151463)"
+            }
+        ],
+        "version": "5.4.0.3239 (84151463)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_53.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 13, 2015 at 11:13PM GMT+0200",
+                "version": "5.3.0.65524 (84148212)"
+            }
+        ],
+        "version": "5.3.0.65524 (84148212)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_54.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 3, 2015 at 9:06AM GMT+0200",
+                "version": "5.3.0.65246 (84147934)"
+            }
+        ],
+        "version": "5.3.0.65246 (84147934)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_55.apk",
+                "screen_size": "nodpi",
+                "upload_time": "February 24, 2015 at 11:23PM GMT+0100",
+                "version": "5.2.0.62296 (84079448)"
+            }
+        ],
+        "version": "5.2.0.62296 (84079448)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_56.apk",
+                "screen_size": "nodpi",
+                "upload_time": "February 9, 2015 at 7:26PM GMT+0100",
+                "version": "5.2.0.61097 (84078249)"
+            }
+        ],
+        "version": "5.2.0.61097 (84078249)"
+    },
+    {
+        "app_id": "skype-skype",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "skype-skype",
+                "architectures": [
+                    "arm"
+                ],
+                "file_name": "skype-skype_57.apk",
+                "screen_size": "nodpi",
+                "upload_time": "January 20, 2015 at 11:31PM GMT+0100",
+                "version": "5.1.0.58677 (84010293)"
+            }
+        ],
+        "version": "5.1.0.58677 (84010293)"
+    }
+]

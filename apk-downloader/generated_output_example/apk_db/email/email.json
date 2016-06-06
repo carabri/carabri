@@ -1,0 +1,97 @@
+[
+    {
+        "app_id": "email",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "email",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "email_1.apk",
+                "screen_size": "nodpi",
+                "upload_time": "November 13, 2014 at 3:57AM GMT+0100",
+                "version": "7.0-1533254 (7008110)"
+            }
+        ],
+        "version": "7.0-1533254 (7008110)"
+    },
+    {
+        "app_id": "email",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "email",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "email_2.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 3, 2014 at 3:29PM GMT+0200",
+                "version": "6.3-1218562 (6306090)"
+            }
+        ],
+        "version": "6.3-1218562 (6306090)"
+    },
+    {
+        "app_id": "email",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 4.3 (Jelly Bean MR2, API 18)",
+                "app_id": "email",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "email_3.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 2, 2014 at 12:15PM GMT+0200",
+                "version": "6.2-1158763 (500064)"
+            }
+        ],
+        "version": "6.2-1158763 (500064)"
+    },
+    {
+        "app_id": "email",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 4.3 (Jelly Bean MR2, API 18)",
+                "app_id": "email",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "email_4.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 2, 2014 at 12:15PM GMT+0200",
+                "version": "6.1-937116 (500060)"
+            }
+        ],
+        "version": "6.1-937116 (500060)"
+    },
+    {
+        "app_id": "email",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 4.3 (Jelly Bean MR2, API 18)",
+                "app_id": "email",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "email_5.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 2, 2014 at 12:15PM GMT+0200",
+                "version": "6.0-893803 (500058)"
+            }
+        ],
+        "version": "6.0-893803 (500058)"
+    }
+]

@@ -1,0 +1,667 @@
+[
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_1.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 26, 2016 at 9:12PM GMT+0200",
+                "version": "6.4.120760496.release (58199121)"
+            }
+        ],
+        "version": "6.4.120760496.release (58199121)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_2.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 25, 2016 at 7:47PM GMT+0200",
+                "version": "6.4.120195329.release (58199118)"
+            }
+        ],
+        "version": "6.4.120195329.release (58199118)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_3.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 30, 2016 at 7:27PM GMT+0200",
+                "version": "6.3.117716127.release (58150215)"
+            }
+        ],
+        "version": "6.3.117716127.release (58150215)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_4.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 1, 2016 at 8:03PM GMT+0100",
+                "version": "6.0.115979076.release (58120068)"
+            }
+        ],
+        "version": "6.0.115979076.release (58120068)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_5.apk",
+                "screen_size": "nodpi",
+                "upload_time": "February 24, 2016 at 6:52PM GMT+0100",
+                "version": "6.0.115234454.release (58120066)"
+            }
+        ],
+        "version": "6.0.115234454.release (58120066)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_6.apk",
+                "screen_size": "nodpi",
+                "upload_time": "February 22, 2016 at 7:17PM GMT+0100",
+                "version": "5.11.115209765.release (58120013)"
+            }
+        ],
+        "version": "5.11.115209765.release (58120013)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_7.apk",
+                "screen_size": "nodpi",
+                "upload_time": "February 19, 2016 at 7:41AM GMT+0100",
+                "version": "5.11.115007468.release (58120011)"
+            }
+        ],
+        "version": "5.11.115007468.release (58120011)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_8.apk",
+                "screen_size": "nodpi",
+                "upload_time": "February 17, 2016 at 7:56PM GMT+0100",
+                "version": "5.11.114210608.release (58120007)"
+            }
+        ],
+        "version": "5.11.114210608.release (58120007)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_9.apk",
+                "screen_size": "nodpi",
+                "upload_time": "January 26, 2016 at 9:04AM GMT+0100",
+                "version": "5.10.112808100.release (58082481)"
+            }
+        ],
+        "version": "5.10.112808100.release (58082481)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_10.apk",
+                "screen_size": "nodpi",
+                "upload_time": "January 23, 2016 at 8:08AM GMT+0100",
+                "version": "5.10.112725722.release (58082479)"
+            }
+        ],
+        "version": "5.10.112725722.release (58082479)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_11.apk",
+                "screen_size": "nodpi",
+                "upload_time": "January 20, 2016 at 8:38PM GMT+0100",
+                "version": "5.10.111991550.release (58082475)"
+            }
+        ],
+        "version": "5.10.111991550.release (58082475)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_12.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 9, 2015 at 8:53PM GMT+0100",
+                "version": "5.9.109452737.release (58045865)"
+            }
+        ],
+        "version": "5.9.109452737.release (58045865)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_13.apk",
+                "screen_size": "nodpi",
+                "upload_time": "November 11, 2015 at 3:43AM GMT+0100",
+                "version": "5.8.107203005.release (58019337)"
+            }
+        ],
+        "version": "5.8.107203005.release (58019337)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_14.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 21, 2015 at 8:23PM GMT+0200",
+                "version": "5.7.105901136.release (57011644)"
+            }
+        ],
+        "version": "5.7.105901136.release (57011644)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_15.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 14, 2015 at 5:58PM GMT+0200",
+                "version": "5.7.105345578.release (57011638)"
+            }
+        ],
+        "version": "5.7.105345578.release (57011638)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_16.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 12, 2015 at 8:56PM GMT+0200",
+                "version": "5.7.104875269.release (57011636)"
+            }
+        ],
+        "version": "5.7.104875269.release (57011636)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_17.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 18, 2015 at 5:55AM GMT+0200",
+                "version": "5.6.103338659.release (56008678)"
+            }
+        ],
+        "version": "5.6.103338659.release (56008678)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_18.apk",
+                "screen_size": "nodpi",
+                "upload_time": "September 16, 2015 at 7:28PM GMT+0200",
+                "version": "5.6.102685581.release (56008676)"
+            }
+        ],
+        "version": "5.6.102685581.release (56008676)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_19.apk",
+                "screen_size": "nodpi",
+                "upload_time": "August 21, 2015 at 2:18AM GMT+0200",
+                "version": "5.5.101116392.release (55008625)"
+            }
+        ],
+        "version": "5.5.101116392.release (55008625)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_20.apk",
+                "screen_size": "nodpi",
+                "upload_time": "August 18, 2015 at 5:09AM GMT+0200",
+                "version": "5.5.100425178.release (55008623)"
+            }
+        ],
+        "version": "5.5.100425178.release (55008623)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 6.0 (Marshmallow, API 23)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_21.apk",
+                "screen_size": "480dpi",
+                "upload_time": "August 17, 2015 at 8:45PM GMT+0200",
+                "version": "5.5.100419175.release (55007356)"
+            }
+        ],
+        "version": "5.5.100419175.release (55007356)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_22.apk",
+                "screen_size": "nodpi",
+                "upload_time": "July 8, 2015 at 5:50PM GMT+0200",
+                "version": "5.4.97372923.release (54000876)"
+            }
+        ],
+        "version": "5.4.97372923.release (54000876)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_23.apk",
+                "screen_size": "nodpi",
+                "upload_time": "June 10, 2015 at 9:10PM GMT+0200",
+                "version": "5.3.95312851 (53000576)"
+            }
+        ],
+        "version": "5.3.95312851 (53000576)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_24.apk",
+                "screen_size": "nodpi",
+                "upload_time": "May 20, 2015 at 6:53AM GMT+0200",
+                "version": "5.2.93937770 (52000999)"
+            }
+        ],
+        "version": "5.2.93937770 (52000999)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_25.apk",
+                "screen_size": "nodpi",
+                "upload_time": "May 15, 2015 at 8:44AM GMT+0200",
+                "version": "5.2.93660639 (52000811)"
+            }
+        ],
+        "version": "5.2.93660639 (52000811)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_26.apk",
+                "screen_size": "nodpi",
+                "upload_time": "May 14, 2015 at 4:44AM GMT+0200",
+                "version": "5.2.93061572 (52000479)"
+            }
+        ],
+        "version": "5.2.93061572 (52000479)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_27.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 13, 2015 at 11:18PM GMT+0200",
+                "version": "5.1.90765967 (51001817)"
+            }
+        ],
+        "version": "5.1.90765967 (51001817)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_28.apk",
+                "screen_size": "nodpi",
+                "upload_time": "April 1, 2015 at 1:19AM GMT+0200",
+                "version": "5.1.89985675 (51001620)"
+            }
+        ],
+        "version": "5.1.89985675 (51001620)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_29.apk",
+                "screen_size": "nodpi",
+                "upload_time": "March 30, 2015 at 10:19PM GMT+0200",
+                "version": "5.1.89745174 (51001549)"
+            }
+        ],
+        "version": "5.1.89745174 (51001549)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_30.apk",
+                "screen_size": "nodpi",
+                "upload_time": "December 3, 2014 at 9:05PM GMT+0100",
+                "version": "5.0.1 (1618411) (5010010)"
+            }
+        ],
+        "version": "5.0.1 (1618411) (5010010)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 5.0 (Lollipop, API 21)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_31.apk",
+                "screen_size": "nodpi",
+                "upload_time": "November 1, 2014 at 1:36AM GMT+0100",
+                "version": "5.0 (1520254) (5000600)"
+            }
+        ],
+        "version": "5.0 (1520254) (5000600)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_32.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 2, 2014 at 12:15PM GMT+0200",
+                "version": "4.9 (1266230) (4900110)"
+            }
+        ],
+        "version": "4.9 (1266230) (4900110)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_33.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 2, 2014 at 12:15PM GMT+0200",
+                "version": "4.8.1 (1171797) (4810000)"
+            }
+        ],
+        "version": "4.8.1 (1171797) (4810000)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_34.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 2, 2014 at 12:15PM GMT+0200",
+                "version": "4.8 (1167183) (4800250)"
+            }
+        ],
+        "version": "4.8 (1167183) (4800250)"
+    },
+    {
+        "app_id": "gmail",
+        "variants": [
+            {
+                "android_version_max": "n/a",
+                "android_version_min": "Android 4.0 (Ice Cream Sandwich, API 14)",
+                "android_version_target": "Android 4.4 (Kitkat, API 19)",
+                "app_id": "gmail",
+                "architectures": [
+                    "any"
+                ],
+                "file_name": "gmail_35.apk",
+                "screen_size": "nodpi",
+                "upload_time": "October 2, 2014 at 12:15PM GMT+0200",
+                "version": "4.7.2 (967015) (4720010)"
+            }
+        ],
+        "version": "4.7.2 (967015) (4720010)"
+    }
+]
