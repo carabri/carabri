@@ -2,6 +2,8 @@
 This script orchestrating the long simulations, executing multiple test scenarios and installing 
 the application upgrades between the tests.
 
+___This script is still under development, not all the functionality described below is working at the moment___
+
 
 ## Script prerequisites:
 
