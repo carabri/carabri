@@ -4,15 +4,17 @@
   "architecture": "x86",
   "apk-database": "../../apk_db/",
   "apks": ["chrome", "gmail"],
-  "after": "2015-03-01",
-  "before": "2015-03-31",
+  "after": "2015-03-22",
+  "before": "2015-04-30",
   "tests": [
     {
-      "command": "echo \"executing dummy command $SEQUENCE after installing $APP_ID (version $APP_VERSION), released on: $DATE\"",
-      "repeat": 5
+      "test-id": "dummy test (repeated 3 times)",
+      "command": "echo \"executing dummy command $SEQUENCE after installing $APP_ID (version $APP_VERSION), released on: $RELEASE_DATE\"",
+      "repeat": 3
     },
     {
-      "command": "echo \"executing other dummy command about app $APP_ID (version $APP_VERSION), released on: $DATE\"",
+      "test-id": "other dummy test (executed only once)",
+      "command": "echo \"executing other dummy command after installing app $APP_ID (version $APP_VERSION), released on: $RELEASE_DATE\"",
       "repeat": 1
     }
   ]
