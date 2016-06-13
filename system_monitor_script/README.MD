@@ -6,9 +6,11 @@ one another if they appeared together in a time interval.  The edges are weighte
 on the combined memory usage of the nodes.  This might be useful for looking at which
 *combinations* of processes cause the system to slow down.  The resulting graph is written to
 a CSV-like edge list.
+
 # Requirements
 * Python 3
 * networkx
+
 # Usage
 ## Parameters
 * `--filename`: provide the memory log file for building the network.  Defaults to ./memory.log.sample
