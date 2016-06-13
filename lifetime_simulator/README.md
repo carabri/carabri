@@ -2,8 +2,6 @@
 This script orchestrating the long simulations, executing multiple test scenarios and installing 
 the application upgrades between the tests.
 
-___This script is still under development, not all the functionality described below is working at the moment___
-
 
 ## Script prerequisites:
 
@@ -25,15 +23,15 @@ __Options:__
 - `--log_dir=<path>`: specify the log folder where the execution logs will be generated (default=./log/)
 
 The install script loads a json config file that has the following fields:
-- `emulator`: true if you are using an emulated device, false if using usb __(mandatory)__
-- `apk-database`: path to the folder contains the json files with the apk database __(mandatory)__
-- `api-version`: installing only apks compatible with the given API version (eg: 14, which refers to Android 4.0 (Ice Cream Sandwich)) __(mandatory)__
-- `apks`: \[ list of app ids (refering to the apk database) for the applications to be installed ] __(mandatory)__
+- `emulator`: true if you are using an emulated device, false if using usb __(mandatory field)__
+- `apk-database`: path to the folder contains the json files with the apk database __(mandatory field)__
+- `api-version`: installing only apks compatible with the given API version (eg: 14, which refers to Android 4.0 (Ice Cream Sandwich)) __(mandatory field)__
+- `apks`: \[ list of app ids (refering to the apk database) for the applications to be installed ] __(mandatory field)__
 - `architecture`: installing only apks for the given architecture: arm, arm64, x86 (default: x86)
 - `after`: only the apk released after this date (inclusive) will be installed (default: 2010-01-01)
 - `before`: only the apk released before this date (inclusive) will be installed (default: 2099-12-31)
 - `screen-size`: installing only apks compatible with the given screen size (eg: '240dpi', '480dpi') (default: 'nodpi' -> only the apks with no screen-size limitation will be installed)
-- `tests`: \[ list of test json objects will be executed between each apk install ] __(mandatory)__
+- `tests`: \[ list of test json objects will be executed between each apk install ] __(mandatory field)__
 
 
 Each test json object can contain the following fields: 
@@ -53,7 +51,3 @@ The individual tests will be executed via shell. The following environment varia
 - `APP_VERSION`: version of the last upgraded app
 
 
-
-## Generated log files
-
-___TODO: specify, with examples___
