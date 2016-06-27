@@ -28,10 +28,11 @@ the application upgrades between the tests.
 
 ## starting the base image
 - if you have the device specified above, you can start it with the "_{android sdk}/tools/emulator -avd carabri_" command
+- to start the emulator in headless mode, use the "_-no-skin -no-audio -no-window_" options
 - to verify Intel hardware vistualization support, you should look in the command line for the following output: "HAXM is working and emulator runs in fast virt mode"
 - if the hardware virtalization is not working, then you shoud check the following page to fix it: https://developer.android.com/studio/run/emulator-commandline.html (see chapter: 'Configuring Virtual Machine Acceleration')
 - you can not have hardware virtualization support if you execute the emulator from virtualbox or docker...
-
+- to terminate the emaulator, you can use _kill_ in command line (for me sometime I had to use _kill -9_)
 
 ## Usage
 
