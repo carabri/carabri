@@ -7,9 +7,30 @@ the application upgrades between the tests.
 
 - python3 is installed (additional pip packages to install: python_dateutil, pytz)
 - adb is installed / downloaded
-- adb is added to the path in your favorite shell's rc or profile.
+- adb is added to the path in your favorite shell's rc or profile. (adb binary is in the _{android sdk}/platform-tools_ folder
 - the target device is listed when running `adb devices` 
 - the apks you have downloaded match the cpu architecture of the target device
+
+
+## Prepare base image (AVD)
+- display: 4" WVGA, 480x800, hdpi
+- Android system image, 4.3, Jelly bean, API18 x86
+- avd name: carabri (we will refer to this virtual device with it's name later)
+- camera: emulated back camera
+- network: full speed, no latency
+- graphics emulation: auto (ADB will use hardware emulation if possible)
+- RAM: 512 MB
+- VM heap: 32 MB
+- Internal storage: 800 MB
+- SD card: 100 MB
+- Keyboard: enable keyboard input
+
+
+## starting the base image
+- if you have the device specified above, you can start it with the "_{android sdk}/tools/emulator -avd carabri_" command
+- to verify Intel hardware vistualization support, you should look in the command line for the following output: "HAXM is working and emulator runs in fast virt mode"
+- if the hardware virtalization is not working, then you shoud check the following page to fix it: https://developer.android.com/studio/run/emulator-commandline.html (see chapter: 'Configuring Virtual Machine Acceleration')
+- you can not have hardware virtualization support if you execute the emulator from virtualbox or docker...
 
 
 ## Usage
