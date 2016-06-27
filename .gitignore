@@ -1,6 +1,7 @@
 # Built application files
 *.apk
 *.ap_
+*.pyc
 
 # Files for the Dalvik VM
 *.dex
@@ -34,6 +35,7 @@ captures/
 # Android Studio project files
 .idea
 *.iml
+.DS_Store
 
 # install script config file
 install_script/config.json
