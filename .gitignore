@@ -39,3 +39,4 @@ captures/
 
 # install script config file
 install_script/config.json
+system_monitor_script/config.json
