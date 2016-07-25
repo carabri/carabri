@@ -17,6 +17,11 @@
       "command": "echo \"executing other dummy command after installing app $APP_ID (version $APP_VERSION), released on: $RELEASE_DATE\"",
       "repeat": 1
     }
+	{
+	  "test-id": "send gmail",
+	  "command": "python ../test_script/send_gmail.py"
+	  "repeat": 1
+	}
   ]
 
 }
