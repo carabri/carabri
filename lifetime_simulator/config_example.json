@@ -2,9 +2,9 @@
   "emulator": true,
   "api-version": 14,
   "architecture": "x86",
-  "apk-database": "../../apk_db/",
+  "apk-database": "../../apk_db_sample/",
   "apks": ["chrome", "gmail"],
-  "after": "2015-03-22",
+  "after": "2015-03-01",
   "before": "2015-04-30",
   "tests": [
     {
@@ -25,4 +25,5 @@
   ]
 
 }
+
 
